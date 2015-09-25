@@ -22,5 +22,9 @@ int main(void){
 	:"r"(n),"r"(r));
 
   printf("%d P %d = %d\n",n,r,result);
+/*  e.x.
+ *  6 P 3 = 6 * 5 * 4 = 120
+ *  8 P 2 = 8 * 7 = 56
+ */
   return 0;
 }
