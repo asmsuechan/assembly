@@ -1,4 +1,5 @@
 #include<stdio.h>
+//sum
 int main(void){
   int n,s;
   printf("put a number:");
